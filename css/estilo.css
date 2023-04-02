@@ -1,0 +1,57 @@
+#caixaprimaria{
+	position: absolute; top: 55px;
+	left: 56px; 
+
+}
+#mgqualipilustrar{
+	width: 140px;height: 140px; position: absolute;
+	left: 211px;
+}
+#titulopg{
+	position: absolute;top: 20px;left: 544px;
+	font-size: 35px; width: 544px;
+}
+#slogansite{
+	position: absolute;top: 85px;left: 345px;
+	font-size: 29px; color: blue; width: 766px;
+}
+#txtqualipinformation{
+	position: absolute;top: 306px;
+	left: 210px;font-size: 21px; text-align: center;
+	width: 899px;
+}
+#txtlabel1{
+	position: absolute;top: 240px;
+	left: 155px;font-size: 26px; color: red;
+}
+#cxipmostrar{
+	position: absolute;top: 237px;
+	left: 256px;font-size: 21px;
+	width: 233px;
+}
+#btnpegardados{
+	position: absolute;top: 278px;
+	left: 399px;font-size: 20px;
+}
+#txtlat{
+	position: absolute;top: 237px;
+	left: 509px;font-size: 26px;
+}
+#latitude{
+	position: absolute;top: 237px;
+	left: 625px; font-size: 21px;
+	width: 233px;
+}
+#txtlongit{
+	position: absolute;top: 237px;
+	font-size: 26px;left: 877px;
+}
+#longitude{
+	position: absolute;top: 237px;
+	font-size: 21px; left: 999px;
+	width: 233px;
+}
+#devaplicacao{
+	position: absolute;top: 566px;
+	left: 501px; font-size: 22px;
+}
